@@ -21,7 +21,7 @@ Exemple d'utilisation :
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>WinUI-à-la-CSS</title>
+  <title>Exemple WinUI CSS</title>
   <!--Importer tous les fichiers css dans le style.css avec @import url('')-->
   <link rel="stylesheet" href="style.css">
 </head>
